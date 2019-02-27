@@ -1,0 +1,1 @@
+腾讯云通信后台生成usersig只有java实现代码。以下是根据java代码转换为net实现， 需要使用类库：Portable.BouncyCastle，SharpZipLib，直接从nuget下载安装即可
